@@ -1,11 +1,7 @@
+import Navbar from "./components/Navbar";
+
 function App() {
-  return (
-    <>
-      <div>
-        <h1>video</h1>
-      </div>
-    </>
-  );
+  return <Navbar />;
 }
 
 export default App;
